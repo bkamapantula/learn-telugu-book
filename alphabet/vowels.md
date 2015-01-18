@@ -25,6 +25,8 @@ English pronunciation is mentioned for couple of Hindi syllables.
 |అం|अं|
 |అ:|अः|
 
+
+
 The table is adapted from the [corresponding Wikipedia entry](https://en.wikipedia.org/wiki/Telugu_script#Vowels).
 
 Vowels are termed in Telugu as అచ్చులు (achhulu ~ a+chh+ulu).
