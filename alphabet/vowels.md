@@ -8,7 +8,7 @@ English pronunciation is mentioned for couple of Hindi syllables.
 
 |Telugu Letter | Hindi Letter |
 |--|--|--|
-|అ|अ||
+|అ|अ|
 |ఆ|आ|
 |ఇ|इ|
 |ఈ|ई|
