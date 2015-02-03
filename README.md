@@ -18,7 +18,7 @@ Incomplete.
 
 Table of Contents
 --
-- Vowels
-- Consonants
+- [Vowels](alphabet/vowels.md)
+- [Consonants](alphabet/consonants.md)
 - Words
 
